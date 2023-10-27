@@ -1,0 +1,61 @@
+[2023-10-26 20:15:34] [ INFO ] [OdontologoDaoMemoria:23] Odontólogo guardado: id=1, numeroDeMatricula=4564654, nombre='nombre', apellido='apellido'
+[2023-10-26 20:28:18] [ INFO ] [OdontologoDaoMemoria:23] Odontólogo guardado: id=1, numeroDeMatricula=4564654, nombre='nombre', apellido='apellido'
+[2023-10-26 20:28:37] [ INFO ] [OdontologoDaoMemoria:23] Odontólogo guardado: id=1, numeroDeMatricula=3399701, nombre='Sofi', apellido='Bru'
+[2023-10-26 20:28:37] [ INFO ] [OdontologoDaoMemoria:23] Odontólogo guardado: id=2, numeroDeMatricula=1230955, nombre='Jhonatan', apellido='Ri'
+[2023-10-26 20:28:51] [ INFO ] [OdontologoDaoMemoria:23] Odontólogo guardado: id=1, numeroDeMatricula=3399701, nombre='Sofi', apellido='Bru'
+[2023-10-26 20:28:51] [ INFO ] [OdontologoDaoMemoria:23] Odontólogo guardado: id=2, numeroDeMatricula=1230955, nombre='Jhonatan', apellido='Ri'
+[2023-10-26 20:28:51] [ INFO ] [OdontologoDaoMemoria:23] Odontólogo guardado: id=1, numeroDeMatricula=4564654, nombre='nombre', apellido='apellido'
+[2023-10-26 20:49:30] [ INFO ] [OdontologoDaoMemoria:22] Odontólogo guardado: id=1, numeroDeMatricula=1234567, nombre='Sofia', apellido='Apellido'
+[2023-10-26 20:49:30] [ INFO ] [OdontologoDaoMemoria:22] Odontólogo guardado: id=2, numeroDeMatricula=9187654, nombre='nombre', apellido='apellido'
+[2023-10-26 20:49:30] [ INFO ] [OdontologoDaoMemoria:28] Lista de Odontólogos : [id=1, numeroDeMatricula=1234567, nombre='Sofia', apellido='Apellido', id=2, numeroDeMatricula=9187654, nombre='nombre', apellido='apellido']
+[2023-10-26 20:49:35] [ INFO ] [OdontologoDaoMemoria:22] Odontólogo guardado: id=1, numeroDeMatricula=1234567, nombre='Sofia', apellido='Apellido'
+[2023-10-26 20:49:35] [ INFO ] [OdontologoDaoMemoria:22] Odontólogo guardado: id=2, numeroDeMatricula=9187654, nombre='nombre', apellido='apellido'
+[2023-10-26 20:49:35] [ INFO ] [OdontologoDaoMemoria:28] Lista de Odontólogos : [id=1, numeroDeMatricula=1234567, nombre='Sofia', apellido='Apellido', id=2, numeroDeMatricula=9187654, nombre='nombre', apellido='apellido']
+[2023-10-26 20:49:35] [ INFO ] [OdontologoDaoMemoria:22] Odontólogo guardado: id=1, numeroDeMatricula=4564654, nombre='nombre', apellido='apellido'
+[2023-10-26 21:03:29] [ ERROR] [OdontologoDaoH2:44] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMERODEMATRICULA, NOMBRE, APELLIDO) VALUES(?, ?, ?, ?); [42104-224]
+[2023-10-26 21:03:29] [ INFO ] [OdontologoDaoH2:49] Tuvimos un problema
+[2023-10-26 21:03:29] [ ERROR] [OdontologoDaoH2:50] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMERODEMATRICULA, NOMBRE, APELLIDO) VALUES(?, ?, ?, ?); [42104-224]
+[2023-10-26 21:03:51] [ ERROR] [OdontologoDaoH2:44] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMERODEMATRICULA, NOMBRE, APELLIDO) VALUES(?, ?, ?); [42104-224]
+[2023-10-26 21:03:51] [ INFO ] [OdontologoDaoH2:49] Tuvimos un problema
+[2023-10-26 21:03:51] [ ERROR] [OdontologoDaoH2:50] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMERODEMATRICULA, NOMBRE, APELLIDO) VALUES(?, ?, ?); [42104-224]
+[2023-10-26 21:05:04] [ ERROR] [OdontologoDaoH2:44] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMERODEMATRICULA, NOMBRE, APELLIDO) VALUES(?, ?, ?); [42104-224]
+[2023-10-26 21:05:04] [ INFO ] [OdontologoDaoH2:49] Tuvimos un problema
+[2023-10-26 21:05:04] [ ERROR] [OdontologoDaoH2:50] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMERODEMATRICULA, NOMBRE, APELLIDO) VALUES(?, ?, ?); [42104-224]
+[2023-10-26 21:05:55] [ INFO ] [OdontologoDaoMemoria:22] Odontólogo guardado: id=1, numeroDeMatricula=1234567, nombre='Sofia', apellido='Apellido'
+[2023-10-26 21:05:55] [ INFO ] [OdontologoDaoMemoria:22] Odontólogo guardado: id=2, numeroDeMatricula=9187654, nombre='nombre', apellido='apellido'
+[2023-10-26 21:05:55] [ INFO ] [OdontologoDaoMemoria:28] Lista de Odontólogos : [id=1, numeroDeMatricula=1234567, nombre='Sofia', apellido='Apellido', id=2, numeroDeMatricula=9187654, nombre='nombre', apellido='apellido']
+[2023-10-26 21:05:55] [ INFO ] [OdontologoDaoMemoria:22] Odontólogo guardado: id=1, numeroDeMatricula=4564654, nombre='nombre', apellido='apellido'
+[2023-10-26 21:05:56] [ ERROR] [OdontologoDaoH2:44] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMERODEMATRICULA, NOMBRE, APELLIDO) VALUES(?, ?, ?); [42104-224]
+[2023-10-26 21:05:56] [ INFO ] [OdontologoDaoH2:49] Tuvimos un problema
+[2023-10-26 21:05:56] [ ERROR] [OdontologoDaoH2:50] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMERODEMATRICULA, NOMBRE, APELLIDO) VALUES(?, ?, ?); [42104-224]
+[2023-10-26 21:08:44] [ ERROR] [OdontologoDaoH2:44] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMERODEMATRICULA, NOMBRE, APELLIDO) VALUES(?, ?, ?); [42104-224]
+[2023-10-26 21:08:44] [ INFO ] [OdontologoDaoH2:49] Tuvimos un problema
+[2023-10-26 21:08:44] [ ERROR] [OdontologoDaoH2:50] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMERODEMATRICULA, NOMBRE, APELLIDO) VALUES(?, ?, ?); [42104-224]
+[2023-10-26 21:11:48] [ INFO ] [OdontologoDaoMemoria:22] Odontólogo guardado: id=1, numeroDeMatricula=1234567, nombre='Sofia', apellido='Apellido'
+[2023-10-26 21:11:48] [ INFO ] [OdontologoDaoMemoria:22] Odontólogo guardado: id=2, numeroDeMatricula=9187654, nombre='nombre', apellido='apellido'
+[2023-10-26 21:11:48] [ INFO ] [OdontologoDaoMemoria:28] Lista de Odontólogos : [id=1, numeroDeMatricula=1234567, nombre='Sofia', apellido='Apellido', id=2, numeroDeMatricula=9187654, nombre='nombre', apellido='apellido']
+[2023-10-26 21:11:48] [ INFO ] [OdontologoDaoMemoria:22] Odontólogo guardado: id=1, numeroDeMatricula=4564654, nombre='nombre', apellido='apellido'
+[2023-10-26 21:11:48] [ ERROR] [OdontologoDaoH2:44] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMERODEMATRICULA, NOMBRE, APELLIDO) VALUES(?, ?, ?); [42104-224]
+[2023-10-26 21:11:48] [ INFO ] [OdontologoDaoH2:49] Tuvimos un problema
+[2023-10-26 21:11:48] [ ERROR] [OdontologoDaoH2:50] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMERODEMATRICULA, NOMBRE, APELLIDO) VALUES(?, ?, ?); [42104-224]
+[2023-10-26 21:12:28] [ INFO ] [OdontologoDaoMemoria:22] Odontólogo guardado: id=1, numeroDeMatricula=1234567, nombre='Sofia', apellido='Apellido'
+[2023-10-26 21:12:28] [ INFO ] [OdontologoDaoMemoria:22] Odontólogo guardado: id=2, numeroDeMatricula=9187654, nombre='nombre', apellido='apellido'
+[2023-10-26 21:12:28] [ INFO ] [OdontologoDaoMemoria:28] Lista de Odontólogos : [id=1, numeroDeMatricula=1234567, nombre='Sofia', apellido='Apellido', id=2, numeroDeMatricula=9187654, nombre='nombre', apellido='apellido']
+[2023-10-26 21:12:28] [ INFO ] [OdontologoDaoMemoria:22] Odontólogo guardado: id=1, numeroDeMatricula=4564654, nombre='nombre', apellido='apellido'
+[2023-10-26 21:12:28] [ ERROR] [OdontologoDaoH2:44] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMERODEMATRICULA, NOMBRE, APELLIDO) VALUES(?, ?, ?); [42104-224]
+[2023-10-26 21:12:28] [ INFO ] [OdontologoDaoH2:49] Tuvimos un problema
+[2023-10-26 21:12:28] [ ERROR] [OdontologoDaoH2:50] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMERODEMATRICULA, NOMBRE, APELLIDO) VALUES(?, ?, ?); [42104-224]

@@ -1,0 +1,4 @@
+
+l	java:S116"QRename this field "LOGGER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÐ¡ 8²º¥£¶1
+p
+java:S1450"SRemove the "stat" field and declare it as a local variable in the relevant methods.(ŸÛº¯8³º¥£¶1
